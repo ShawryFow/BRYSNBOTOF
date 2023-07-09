@@ -20,10 +20,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/OFC-YOVANI/HATSUNE-MIKU.git"
+        "url": "git+https://github.com/ShawryFow/BRYSNBOTOF.git"
     },
     "bugs": {
-        "url": "https://github.com/OFC-YOVANI/HATSUNE-MIKU.git/issues"
+        "url": "https://github.com/ShawryFow/BRYSNBOTOF.git/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
