@@ -1,10 +1,10 @@
 {
-  "name": "HATSUNE-MIKU",
-  "website": "https://github.com/HATSUNE-MIKU.git",
+  "name": "BRYSN-OFF",
+  "website": "https://github.com/ShawryFow/BRYSNBOTOF.git",
   "description": "Super Bot WhatsApp",
-  "repository": "https://github.com/OFC-YOVANI/HATSUNE-MIKU.git",
+  "repository": "https://github.com/ShawryFow/BRYSNBOTOF.git",
   "logo": "https://i.imgur.com/AmzlKVi.jpeg",
-  "success_url": "https://github.com/OFC-YOVANI/HATSUNE-MIKU",
+  "success_url": "https://github.com/ShawryFow/BRYSNBOTOF",
   "keywords": [
     "nodejs",
     "heroku",
