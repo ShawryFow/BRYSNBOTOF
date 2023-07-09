@@ -1,7 +1,7 @@
 {
-    "name": "HATSUNE-MIKU-BOT",
+    "name": "BRYSN-OFF-BOT",
     "version": "1.0.0",
-    "description": "SUSCRÍBETE AL CANAL OFICIAL DE HADES-BOT",
+    "description": "SUSCRÍBETE AL CANAL OFICIAL DE BRYSN-BOT",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -14,9 +14,9 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/OFC-YOVANI/HATSUNE-MIKU.git",
+    "homepage": "https://github.com/ShawryFow/BRYSNBOTOF.git",
     "author": {
-        "name": "OFC-YOVANI"
+        "name": "AXIEL-BB"
     },
     "repository": {
         "type": "git",
