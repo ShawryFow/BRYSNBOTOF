@@ -8,10 +8,10 @@ global.owner = [
   ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
   ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
 ]
-global.suittag =['5212411719888']
+global.suittag =['528123422244']
 global.mods = []
-global.prems = ['5212411719888'], 
-global.prems = ['5212411719888'],
+global.prems = ['528123422244'], 
+global.prems = ['528123422244'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
